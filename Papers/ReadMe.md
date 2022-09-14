@@ -9,7 +9,7 @@
 - [Image-to-Image Translation with Conditional Adversarial Networks](https://arxiv.org/abs/1611.07004)
 - [Improved Precision and Recall Metric for Assessing Generative Models](https://arxiv.org/abs/1904.06991)
 - [Improved Training of Wasserstein GANs](https://arxiv.org/abs/1704.00028)
-- [Inception Score Paper](https://arxiv.org/abs/1801.01973)
+- [A Note on the Inception Score](https://arxiv.org/abs/1801.01973)
 - [Patch-Based Image Inpainting with Generative Adversarial Networks](https://arxiv.org/abs/1803.07422)
 - [RandAugment: Practical automated data augmentation with a reduced search space](https://arxiv.org/abs/1909.13719)
 - [StyleGAN Paper](https://arxiv.org/abs/1812.04948)
