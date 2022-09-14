@@ -2,7 +2,7 @@
 - [Attributing Fake Images to GANs: Learning and Analyzing GAN Fingerprints](https://arxiv.org/abs/1811.08180)
 -
 -
-- [RandAugment: Practical automated data augmentation with a reduced search space](https://arxiv.org/abs/1909.13719)
+- 
 - [De-identification without losing faces](https://arxiv.org/abs/1902.04202)
 - [Few-Shot Adversarial Learning of Realistic Neural Talking Head Models](https://arxiv.org/abs/1905.08233)
 - [HYPE: A Benchmark for Human eYe Perceptual Evaluation of Generative Models](https://arxiv.org/abs/1904.01121)
@@ -10,6 +10,6 @@
 - [Improved Precision and Recall Metric for Assessing Generative Models](https://arxiv.org/abs/1904.06991)
 - [Inception Score Paper](https://arxiv.org/abs/1801.01973)
 - [Patch-Based Image Inpainting with Generative Adversarial Networks](https://arxiv.org/abs/1803.07422)
--
+- [RandAugment: Practical automated data augmentation with a reduced search space](https://arxiv.org/abs/1909.13719)
 - [StyleGAN Paper](https://arxiv.org/abs/1812.04948)
 - [Unpaired Image-to-Image Translation using Cycle-Consistent Adversarial Networks](https://arxiv.org/abs/1703.10593)
