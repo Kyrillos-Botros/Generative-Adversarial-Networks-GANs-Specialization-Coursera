@@ -1,7 +1,7 @@
 # Papers' original Links
 - [Attributing Fake Images to GANs: Learning and Analyzing GAN Fingerprints](https://arxiv.org/abs/1811.08180)
--
--
+- [Conditional Generative Adversarial Nets](https://arxiv.org/abs/1411.1784)
+- [Interpreting the Latent Space of GANs for Semantic Face Editing](https://arxiv.org/abs/1907.10786)
 - 
 - [De-identification without losing faces](https://arxiv.org/abs/1902.04202)
 - [Few-Shot Adversarial Learning of Realistic Neural Talking Head Models](https://arxiv.org/abs/1905.08233)
