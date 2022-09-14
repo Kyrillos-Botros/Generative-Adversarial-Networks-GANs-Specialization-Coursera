@@ -2,7 +2,7 @@
 - [Attributing Fake Images to GANs: Learning and Analyzing GAN Fingerprints](https://arxiv.org/abs/1811.08180)
 - [Conditional Generative Adversarial Nets](https://arxiv.org/abs/1411.1784)
 - [Interpreting the Latent Space of GANs for Semantic Face Editing](https://arxiv.org/abs/1907.10786)
-- 
+- [Data augmentation using generative adversarial networks (cycleGAn) to improve generalizability in ct segmentation tasks](https://www.nature.com/articles/s41598-019-52737-x.pdf)
 - [De-identification without losing faces](https://arxiv.org/abs/1902.04202)
 - [Few-Shot Adversarial Learning of Realistic Neural Talking Head Models](https://arxiv.org/abs/1905.08233)
 - [HYPE: A Benchmark for Human eYe Perceptual Evaluation of Generative Models](https://arxiv.org/abs/1904.01121)
