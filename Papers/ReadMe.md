@@ -16,4 +16,3 @@
 - [Unpaired Image-to-Image Translation using Cycle-Consistent Adversarial Networks](https://arxiv.org/abs/1703.10593)
 - [Unsupervised Representation Learning with Deep Convolutional Generative Adversarial Networks](https://arxiv.org/abs/1511.06434)
 - [Wasserstein GAN](https://arxiv.org/abs/1701.07875)
-- 
