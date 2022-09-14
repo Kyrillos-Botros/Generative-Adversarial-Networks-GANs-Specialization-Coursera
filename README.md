@@ -21,6 +21,12 @@ This specialization consists of three courses as follows:
   - **Week 2:** Image-to-image translation with Pix2Pix and U-Net architecture.
   - **Week 3:** Unpaired translation with CycleGAN.
   
+  ## Repo Content
+   - Lecture Notes 
+   - Assignments 
+   - Extra Labs
+   - All papers presented in specialization. 
+   
   ### All Credits goes to [DeepLearning.ai](https://www.deeplearning.ai) and [Coursera](https://www.coursera.org/) for presenting this enormous knowledge about GANs.
   
   ![](deeplearning&coursera.png)
