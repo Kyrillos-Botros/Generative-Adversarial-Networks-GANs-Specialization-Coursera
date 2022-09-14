@@ -22,6 +22,7 @@ This specialization consists of three courses as follows:
   - **Week 3:** Unpaired translation with CycleGAN.
   
 ## Repo Content
+- Lecture Notes
 - Assignments 
 - Extra Labs
 - All papers presented in specialization. 
