@@ -28,6 +28,6 @@ This specialization consists of three courses as follows:
 - All papers presented in specialization. 
    
    
-  ### All Credits goes to [DeepLearning.ai](https://www.deeplearning.ai) and [Coursera](https://www.coursera.org/) for presenting this enormous knowledge about GANs.
+  ### All Credits goes to [DeepLearning.ai](https://www.deeplearning.ai) and [Coursera](https://www.coursera.org/) for presenting this great knowledge about GANs.
   
   ![](deeplearning&coursera.png)
