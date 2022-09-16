@@ -25,7 +25,7 @@ This specialization consists of three courses as follows:
 - Lecture Notes
 - Assignments 
 - Extra Labs
-- All papers presented in specialization. 
+- All papers discussed in this specialization. 
    
    
   ### All Credits goes to [DeepLearning.ai](https://www.deeplearning.ai) and [Coursera](https://www.coursera.org/) for presenting this great knowledge about GANs.
